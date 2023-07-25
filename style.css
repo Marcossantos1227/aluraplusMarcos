@@ -9,7 +9,7 @@
 body{
       background-color: var(--cor-de-fundo);
       color: var(--branco-pricipal);
-      font-family: var(--font-principal);
+      font-family: var(--fonte-principal);
       font-size: 16px;
       font-weight: 400;
 
@@ -18,10 +18,4 @@ body{
 margin: 0;
 padding: 0;
 }
-.container{
-      
-     height: 100vh;
-     display: grid;
-     grid-template-columns: 50% 50%;
-}
-.pri
+.
